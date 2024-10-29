@@ -16,7 +16,7 @@ function WorkProjects({
   para2?: string;
   link: string;
   linkColor?:number
-  svg?: any;
+  svg?: React.ReactNode;
   image:string
 }) {
   return (
